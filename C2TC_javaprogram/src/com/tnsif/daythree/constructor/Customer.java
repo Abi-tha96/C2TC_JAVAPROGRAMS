@@ -1,7 +1,6 @@
 package com.tnsif.daythree.constructor;
 
 public class Customer {
-	public class Customer {
 		 private String customerName;
 		 private int customerId;
 		 private String customerCity;
@@ -57,6 +56,6 @@ public class Customer {
 		
 		
 		
-	}
+	
 
 }
