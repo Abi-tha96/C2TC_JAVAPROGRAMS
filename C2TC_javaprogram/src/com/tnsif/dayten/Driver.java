@@ -6,7 +6,7 @@ public class Driver {
 		int a[]; // declaration
 		a = new int[n]; // instantiation
 
-		// displaying the array
+		
 		ArrayOperations.printArray(a);
 
 		// assigning values in array a
